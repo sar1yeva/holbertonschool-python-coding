@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Defines a square class with size validation, property, and area computation.
+Defines a square class with size validation, property,
+area computation, and printing.
 """
 
 
